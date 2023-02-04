@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on a [Netflix dashboard in Tableau](https://public.tableau.com/app/profile/mlyngholm)
 
-- 🌱 I’m currently learning **Data Analytics (Google course)**
+- 🤝 I’m also working on an [Exploratory Data Analysis for AirBnb NYC](https://github.com/mlyngholm/AirBnb/blob/master/AirBnb.ipynb)
 
-- 🤝 I’m also working on an **EDA for AirBnb NYC**
+
 
 - 📫 How to reach me **mariemjlyngholm@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
