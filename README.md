@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Netflix dashboard in Tableau](https://public.tableau.com/app/profile/mlyngholm)
 
-- 🤝 I’m also working on an [Exploratory Data Analysis for AirBnb NYC](https://github.com/mlyngholm/AirBnb/blob/master/AirBnb.ipynb)
+- 🤝 I’m also working on an **Exploratory Data Analysis for AirBnb NYC**
 
 - 🌍 I speak **English, Norwegian, Spanish and some Portuguese**
 
