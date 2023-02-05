@@ -5,7 +5,7 @@
 
 - 🤝 I’m also working on an [Exploratory Data Analysis for AirBnb NYC](https://github.com/mlyngholm/AirBnb/blob/master/AirBnb.ipynb)
 
-
+- 🌍 I speak **English, Norwegian, Spanish and some Portuguese**
 
 - 📫 How to reach me **mariemjlyngholm@gmail.com**
 
