@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Data Analyst based in Barcelona</h3>
 
-- 🔭 I’m currently working on a **Netflix analysis**
-
 - 🌍 I speak **English, Norwegian, Spanish and some Portuguese**
 
 - 📫 How to reach me **mariemjlyngholm@gmail.com**
